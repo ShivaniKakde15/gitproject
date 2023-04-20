@@ -11,7 +11,7 @@ Alt-H1
 Alt-H2
 ------
 
-EMPHASIS:
+## EMPHASIS:
 
 *Italics*  or  _Italics_ 
 
@@ -21,76 +21,29 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-LISTS:
+## LISTS:
 
-Ordered List:
+#### Ordered List:
 
 1.List Item 1
 
 2.List Item 2
 
+#### Unordered List
+
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
 
-LINKS:
+## LINKS:
 
 [I'm an inline-style link](https://www.google.com)
 
-Or leave it empty and use the [link text itself].
-
-
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example)
-
-IMAGES:
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+## IMAGES:
 
 ![image](https://user-images.githubusercontent.com/110591443/233267369-e33a2ef5-f865-43a2-9be7-637b934227eb.png)
 
 
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-Here's our logo (hover to see the title text):
-
-Inline-style: alt text
-
-Reference-style: alt text
-
-
-
-Inline `code` has `back-ticks around` it.
-Inline code has back-ticks around it.
-
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
-var s = "JavaScript syntax highlighting";
-alert(s);
-s = "Python syntax highlighting"
-print s
-No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
-But let's throw in a <b>tag</b>.
-Footnotes
-Footnotes aren't part of the core Markdown spec, but they supported by GFM.
 
 Here is a simple footnote[^1].
 
@@ -108,8 +61,7 @@ Renders to:
 
 rendered footnotes
 
-Tables
-Tables aren't part of the core Markdown spec, but they are part of GFM and Markdown Here supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.
+## TABLES:
 
 Colons can be used to align columns.
 
@@ -119,9 +71,6 @@ Colons can be used to align columns.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
 
 Markdown | Less | Pretty
 --- | --- | ---
