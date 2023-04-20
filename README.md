@@ -50,6 +50,9 @@ Here's our logo (hover to see the title text):
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+![image](https://user-images.githubusercontent.com/110591443/233267369-e33a2ef5-f865-43a2-9be7-637b934227eb.png)
+
+
 Reference-style: 
 ![alt text][logo]
 
