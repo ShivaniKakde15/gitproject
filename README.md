@@ -105,12 +105,9 @@ Underscores
 Here's a line for us to start with.
 
 ## YOU TUBE VVIDEOS
-<a href="https://www.youtube.com/watch?v=WkmzcZeROSw"><img src="https://user-images.githubusercontent.com/110591443/233837926-d9f8407a-9595-4811-a477-d7ca1087dc60.png
-"></a>
+<a href="https://www.youtube.com/watch?v=WkmzcZeROSw"><img src="https://user-images.githubusercontent.com/110591443/233837926-d9f8407a-9595-4811-a477-d7ca1087dc60.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-Referencing a bug by #bugID in your git commit links it to the slip. For example #1.
 
 
 
