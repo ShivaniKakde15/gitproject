@@ -104,6 +104,8 @@ Underscores
 ## LINE BREAKS:
 Here's a line for us to start with.
 
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
 ## YOU TUBE VIDEOS:
 <a href="https://www.youtube.com/watch?v=WkmzcZeROSw"><img src="https://user-images.githubusercontent.com/110591443/233837926-d9f8407a-9595-4811-a477-d7ca1087dc60.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
