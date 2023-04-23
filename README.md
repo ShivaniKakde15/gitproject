@@ -56,7 +56,7 @@ Bye
 
 ## FOOTNESS
 Here is a simple footnote[^1].
-[^1]: My reference.
+[^1]: Hello.
 
 ## TABLES:
 
@@ -71,14 +71,14 @@ Colons can be used to align columns.
 
 Markdown | Less | Pretty
 --- | --- | ---
-*Still* | `renders` | **nicely**
+*html* | `css` | **bootstrap**
 1 | 2 | 3
-Colons can be used to align columns.
 
-## BLOCKQUOTES
+
+## BLOCKQUOTES:
 > Blockquotes are very handy in email to emulate reply text.
 
-## INLINE HTML
+## INLINE HTML:
 
 <dl>
   <dt>Definition list</dt>
@@ -88,7 +88,7 @@ Colons can be used to align columns.
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
-## HORIZONTAL RULE
+## HORIZONTAL RULE:
 
 Three or more...
 
@@ -101,10 +101,10 @@ Asterisks
 ___
 Underscores
 
-## LINE BREAKS
+## LINE BREAKS:
 Here's a line for us to start with.
 
-## YOU TUBE VVIDEOS
+## YOU TUBE VIDEOS:
 <a href="https://www.youtube.com/watch?v=WkmzcZeROSw"><img src="https://user-images.githubusercontent.com/110591443/233837926-d9f8407a-9595-4811-a477-d7ca1087dc60.png" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
