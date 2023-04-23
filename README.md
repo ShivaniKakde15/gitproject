@@ -43,23 +43,20 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ![image](https://user-images.githubusercontent.com/110591443/233267369-e33a2ef5-f865-43a2-9be7-637b934227eb.png)
 
+![image](https://user-images.githubusercontent.com/110591443/233837020-6b5f88ab-67b0-4c36-8817-e6aa52fe92ba.png)
 
 
+## Code and Syntax Highlighting
+```
+Hello
+```
+```
+Bye
+```
+
+## FOOTNESS
 Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
-
 [^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-Renders to:
-
-rendered footnotes
 
 ## TABLES:
 
@@ -78,22 +75,10 @@ Markdown | Less | Pretty
 1 | 2 | 3
 Colons can be used to align columns.
 
-Tables	Are	Cool
-col 3 is	right-aligned	$1600
-col 2 is	centered	$12
-zebra stripes	are neat	$1
-There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown	Less	Pretty
-Still	renders	nicely
-1	2	3
-Blockquotes
+## BLOCKQUOTES
 > Blockquotes are very handy in email to emulate reply text.
-> This line is part of the same quote.
 
-
-Inline HTML
-You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
+## INLINE HTML
 
 <dl>
   <dt>Definition list</dt>
@@ -102,42 +87,24 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
-Definition list
-Is something people use sometimes.
-Markdown in HTML
-Does *not* work **very** well. Use HTML tags.
-Horizontal Rule
+
+## HORIZONTAL RULE
+
 Three or more...
 
 ---
-
 Hyphens
 
 ***
-
 Asterisks
 
 ___
-
-Underscores
-Three or more...
-
-Hyphens
-
-Asterisks
-
 Underscores
 
-Line Breaks
-My basic recommendation for learning how line breaks work is to experiment and discover -- hit <Enter> once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You'll soon learn to get what you want. "Markdown Toggle" is your friend.
+## LINE BREAKS
+Here's a line for us to start with.
 
-
-
-(Technical note: Markdown Here uses GFM line breaks, so there's no need to use MD's two-space line breaks.)
-
-YouTube Videos
-They can't be added directly but you can add an image with a link to the video like this:
-
+## YOU TUBE VVIDEOS
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
